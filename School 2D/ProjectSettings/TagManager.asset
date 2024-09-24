@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Interactable
+    uniqueID: 3847284445
+    locked: 0
+  - name: Legs
+    uniqueID: 183036907
+    locked: 0
+  - name: Arm
+    uniqueID: 2136107509
+    locked: 0
+  - name: Head
+    uniqueID: 1892664061
+    locked: 0
