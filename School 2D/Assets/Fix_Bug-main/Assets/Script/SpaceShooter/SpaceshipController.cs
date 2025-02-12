@@ -64,8 +64,8 @@ public class SpaceshipController : MonoBehaviour
 
     public void SpawnBullet()
     {
-        GameObject bullet = BulletPool.Instance.GetBullet(true); // Get an ally bullet
-        if (bullet == null) return; // Stop if no bullets are available
+        GameObject bullet = BulletPool.Instance.GetBullet(true);
+        if (bullet == null) return;
 
         bullet.transform.position = BulletSpawnHere.position;
         bullet.transform.rotation = Quaternion.identity;
@@ -89,7 +89,6 @@ public class SpaceshipController : MonoBehaviour
         {
             Enemies[i].transform.position = Enemies[i].InitialPosition;
             Enemies[i].gameObject.SetActive(false);
-            //Delays the call of a method in Ienumerator
             StartCoroutine(DelayEnemiesActive());
         }
         canMove = true;

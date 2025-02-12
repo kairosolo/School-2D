@@ -133,8 +133,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 739ae63448a2c594e93f47e0156c046e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SpaceShip: {fileID: 0}
   health: 5
   minFR: 2
   MaxFR: 6
   BulletSpeed: 5
   BulletPrefab: {fileID: 1899422007795365255, guid: f726dfe23e8ad5842be1f15f65934200, type: 3}
+  moveSpeed: 50
+  moveInterval: 0
+  InitialPosition: {x: 0, y: 0, z: 0}

@@ -21,8 +21,6 @@ public class EnemySpaceShooter : MonoBehaviour
     private void Start()
     {
         InitialPosition = transform.position;
-        //minFR = 1
-        //maxFR = 5
         FireRate = Random.Range(minFR, MaxFR);
         storedFireRate = FireRate;
         //InvokeRepeating
@@ -37,11 +35,6 @@ public class EnemySpaceShooter : MonoBehaviour
         {
             SpawnBullet();
             FireRate = storedFireRate;
-        }
-        if (health <= 0)
-        {
-            //Destroy(gameObject);
-            //gameObject.SetActive(false);
         }
     }
 
@@ -61,8 +54,8 @@ public class EnemySpaceShooter : MonoBehaviour
 
     public void SpawnBullet()
     {
-        GameObject bullet = BulletPool.Instance.GetBullet(false); // Get an enemy bullet
-        if (bullet == null) return; // Stop if no bullets are available
+        GameObject bullet = BulletPool.Instance.GetBullet(false);
+        if (bullet == null) return;
 
         bullet.transform.position = transform.position;
         bullet.transform.rotation = Quaternion.identity;
@@ -73,7 +66,6 @@ public class EnemySpaceShooter : MonoBehaviour
 
     public void MoveEnemy()
     {
-        //Moves the enemy downwards aloth the y axis.
         transform.Translate(Vector3.down * moveSpeed * Time.deltaTime);
     }
 }

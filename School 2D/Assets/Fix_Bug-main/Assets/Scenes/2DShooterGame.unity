@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -206,7 +206,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -367,7 +367,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -523,7 +523,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -846,7 +846,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -915,7 +915,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -1203,7 +1203,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -1373,7 +1373,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -1442,7 +1442,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -1906,7 +1906,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -1975,7 +1975,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -2044,7 +2044,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -2142,7 +2142,6 @@ MonoBehaviour:
   allyBulletPrefab: {fileID: 5208581697367532073, guid: 10a1a6ab23ff80e479d173a66d64668f, type: 3}
   enemyBulletPrefab: {fileID: 1899422007795365255, guid: f726dfe23e8ad5842be1f15f65934200, type: 3}
   poolSize: 10
-  maxPoolSize: 10
 --- !u!4 &1313271000
 Transform:
   m_ObjectHideFlags: 0
@@ -2862,7 +2861,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -3560,7 +3559,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
@@ -3629,7 +3628,7 @@ PrefabInstance:
       objectReference: {fileID: 2128575072}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveSpeed
-      value: 20
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 211007816819132872, guid: 1bc260f5662f70f45a8db6df1f1203da, type: 3}
       propertyPath: moveInterval
